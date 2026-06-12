@@ -1,0 +1,35 @@
+{
+    "ecg_id": 4786,
+    "patient_id": 854,
+    "split": "test",
+    "strat_fold": 10,
+    "signal_file": "records100/04000/04786_lr",
+    "signal_shape": [
+        1000,
+        12
+    ],
+    "sampling_rate": 100,
+    "lead_names": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+    ],
+    "main_classes": [
+        "NORM"
+    ],
+    "sub_classes": [
+        "NORM"
+    ],
+    "diagnostic_codes": [
+        "NORM"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "ecg_id": 2473,
+    "patient_id": 4913,
+    "split": "test",
+    "strat_fold": 10,
+    "signal_file": "records100/02000/02473_lr",
+    "signal_shape": [
+        1000,
+        12
+    ],
+    "sampling_rate": 100,
+    "lead_names": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+    ],
+    "main_classes": [
+        "HYP"
+    ],
+    "sub_classes": [
+        "LVH"
+    ],
+    "diagnostic_codes": [
+        "LVH"
+    ]
+}
