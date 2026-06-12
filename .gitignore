@@ -1,1 +1,6 @@
 
+# Inside .gitignore
+saved_models/
+*.pt
+*.pth
+*.zip
